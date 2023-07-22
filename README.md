@@ -94,10 +94,9 @@ buildscript {
 #### Screenshots
 
 
-<img src="https://github.com/ganeshroman/Navigation_Fragment_Demo/blob/5d6ba7448cef4acb8d4ec09b2929ddeb9d8eb418/Screenshot_20230722_205225.png
-" width="250" height="450">
+<img src="https://github.com/ganeshroman/Navigation_Fragment_Demo/blob/a088b93d0f53ccde1fa5c6a6cd5dd4d409b285a2/Screenshot_20230722_205225.png" width="250" height="450">
 
-<img src="https://github.com/ganeshroman/Navigation_Fragment_Demo/blob/5d6ba7448cef4acb8d4ec09b2929ddeb9d8eb418/Screenshot_20230722_205244.png" width="250" height="450">
+<img src="https://github.com/ganeshroman/Navigation_Fragment_Demo/blob/a088b93d0f53ccde1fa5c6a6cd5dd4d409b285a2/Screenshot_20230722_205244.png" width="250" height="450">
 
 
 
