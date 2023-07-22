@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Navigation Fragment Demo</string>
+
+
+    <string name="exam_information">Exam Information</string>
+    <string name="calculate_average_score">CALCULATE AVERAGE SCORE</string>
+    <string name="course_name">Course name</string>
+    <string name="exam_score">Exam Score</string>
+    <string name="midterm_exam_score">Midterm Exam Score</string>
+    <string name="final_exam_score">Final Exam Score</string>
+    <string name="average_score">Average Score</string>
+
+</resources>
